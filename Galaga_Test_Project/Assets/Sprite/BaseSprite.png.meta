@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 2f622c0fb4fe29d4b9d01c4d92b55d64
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: galaga_sprites_by_mammadx_d2aiqmk_0
+    21300002: galaga_sprites_by_mammadx_d2aiqmk_1
+    21300004: galaga_sprites_by_mammadx_d2aiqmk_2
+    21300006: galaga_sprites_by_mammadx_d2aiqmk_3
+    21300008: galaga_sprites_by_mammadx_d2aiqmk_4
+    21300010: galaga_sprites_by_mammadx_d2aiqmk_5
+    21300012: galaga_sprites_by_mammadx_d2aiqmk_6
+    21300014: galaga_sprites_by_mammadx_d2aiqmk_7
+    21300016: galaga_sprites_by_mammadx_d2aiqmk_8
+    21300018: galaga_sprites_by_mammadx_d2aiqmk_9
+    21300020: galaga_sprites_by_mammadx_d2aiqmk_10
+    21300022: galaga_sprites_by_mammadx_d2aiqmk_11
+    21300024: galaga_sprites_by_mammadx_d2aiqmk_12
+    21300026: galaga_sprites_by_mammadx_d2aiqmk_13
+    21300028: galaga_sprites_by_mammadx_d2aiqmk_14
+    21300030: galaga_sprites_by_mammadx_d2aiqmk_15
+    21300032: galaga_sprites_by_mammadx_d2aiqmk_16
+    21300034: galaga_sprites_by_mammadx_d2aiqmk_17
+    21300036: galaga_sprites_by_mammadx_d2aiqmk_18
+    21300038: galaga_sprites_by_mammadx_d2aiqmk_19
+    21300040: galaga_sprites_by_mammadx_d2aiqmk_20
+    21300042: galaga_sprites_by_mammadx_d2aiqmk_21
+    21300044: galaga_sprites_by_mammadx_d2aiqmk_22
+    21300046: galaga_sprites_by_mammadx_d2aiqmk_23
+    21300048: galaga_sprites_by_mammadx_d2aiqmk_24
+    21300050: galaga_sprites_by_mammadx_d2aiqmk_25
+    21300052: galaga_sprites_by_mammadx_d2aiqmk_26
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6bdd1116de47a49ab6bba3423770eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 351
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8bf2beabe93524c8ec10322f7ffcd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c36ecd122a5b042b72ef1007555e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14d3da41ff42d4298c0f1117f522ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 257
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48f45d7ea03914fad2ac2a7f4c5f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 257
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc96b54bb2ffc458a942caf2e80671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 356
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b1564e4761b84cbd3a3c6b7c0824e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f789626c889d04db686127572a0643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5518cd27d5f004e940b27b6b755693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51b8db08008b34ebbc5b436289b5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 101
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603fe4495ab08bc45b4fd86fb86b2a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 165
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002cf4c0f43bdb48adcb8e898d6648f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a691ea0347e54295da412a13bd168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653a10b8abdde542876228ec0aeb15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 34
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef5ef2b4701ae499698752c47ffef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b38d24f1f91644a95b7ea47dba03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a71e1e1e62cfb4881b833a6482e5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5dd05ab624ae94ab9e599137a836b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 38
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da750e5f1c25e4abf0485e9f29e195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 38
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2ac0fc9ec068429cd19477e4239f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 38
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9442502a35bf1240984f57377698dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 38
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa654e5d203f53a4a8f0913e714a760b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 38
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ce53a09c70124282c8aa9e8c9e41e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc4f21d7597d24dbf11e048daac5af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_24
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 37
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1096f183500f81408cc5ab67c7d1acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 37
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe4cc41bd04724e94b99a376d01a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaga_sprites_by_mammadx_d2aiqmk_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 14
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb96852706ea244b44491dedc0ba75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e83e1e73e6859e94386c20d8a0e0e575
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

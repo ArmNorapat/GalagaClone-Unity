@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpritAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f6bc62b86c99f7c478207cf193a4f552, type: 3}
+    totalSpriteSurfaceArea: 1030689
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0438126182aa9524badbcda5abaffb46, type: 3}
+  - {fileID: 21300000, guid: fa975622b19dc12438af77747c2e905a, type: 3}
+  - {fileID: 21300000, guid: fffb03393536db246be904cfd195c631, type: 3}
+  - {fileID: 21300002, guid: c407428941fe97445ac79f331bca3326, type: 3}
+  - {fileID: 21300000, guid: c407428941fe97445ac79f331bca3326, type: 3}
+  - {fileID: 21300006, guid: c407428941fe97445ac79f331bca3326, type: 3}
+  - {fileID: 21300004, guid: c407428941fe97445ac79f331bca3326, type: 3}
+  - {fileID: 21300008, guid: c407428941fe97445ac79f331bca3326, type: 3}
+  - {fileID: 21300000, guid: a8a53b4c1caa1f14f88938ea9bc60af2, type: 3}
+  - {fileID: 21300002, guid: a8a53b4c1caa1f14f88938ea9bc60af2, type: 3}
+  - {fileID: 21300004, guid: a8a53b4c1caa1f14f88938ea9bc60af2, type: 3}
+  - {fileID: 21300006, guid: a8a53b4c1caa1f14f88938ea9bc60af2, type: 3}
+  - {fileID: 21300004, guid: a1af994e5cf1e264d8e9a9dac0a98c74, type: 3}
+  - {fileID: 21300000, guid: a1af994e5cf1e264d8e9a9dac0a98c74, type: 3}
+  - {fileID: 21300002, guid: a1af994e5cf1e264d8e9a9dac0a98c74, type: 3}
+  - {fileID: 21300030, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300028, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300034, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300032, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300022, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300020, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300026, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300024, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300038, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300036, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300012, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300014, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300008, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300010, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300004, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300006, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300000, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300002, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300016, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300018, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300048, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300050, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300052, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300040, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300042, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300044, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  - {fileID: 21300046, guid: 2f622c0fb4fe29d4b9d01c4d92b55d64, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GameBg
+  - Square
+  - EnemyBullet
+  - Explosive_1
+  - Explosive_0
+  - Explosive_3
+  - Explosive_2
+  - Explosive_4
+  - PlayerExplosive_0
+  - PlayerExplosive_1
+  - PlayerExplosive_2
+  - PlayerExplosive_3
+  - EnemyGreenBeam_2
+  - EnemyGreenBeam_0
+  - EnemyGreenBeam_1
+  - galaga_sprites_by_mammadx_d2aiqmk_15
+  - galaga_sprites_by_mammadx_d2aiqmk_14
+  - galaga_sprites_by_mammadx_d2aiqmk_17
+  - galaga_sprites_by_mammadx_d2aiqmk_16
+  - galaga_sprites_by_mammadx_d2aiqmk_11
+  - galaga_sprites_by_mammadx_d2aiqmk_10
+  - galaga_sprites_by_mammadx_d2aiqmk_13
+  - galaga_sprites_by_mammadx_d2aiqmk_12
+  - galaga_sprites_by_mammadx_d2aiqmk_19
+  - galaga_sprites_by_mammadx_d2aiqmk_18
+  - galaga_sprites_by_mammadx_d2aiqmk_6
+  - galaga_sprites_by_mammadx_d2aiqmk_7
+  - galaga_sprites_by_mammadx_d2aiqmk_4
+  - galaga_sprites_by_mammadx_d2aiqmk_5
+  - galaga_sprites_by_mammadx_d2aiqmk_2
+  - galaga_sprites_by_mammadx_d2aiqmk_3
+  - galaga_sprites_by_mammadx_d2aiqmk_0
+  - galaga_sprites_by_mammadx_d2aiqmk_1
+  - galaga_sprites_by_mammadx_d2aiqmk_8
+  - galaga_sprites_by_mammadx_d2aiqmk_9
+  - galaga_sprites_by_mammadx_d2aiqmk_24
+  - galaga_sprites_by_mammadx_d2aiqmk_25
+  - galaga_sprites_by_mammadx_d2aiqmk_26
+  - galaga_sprites_by_mammadx_d2aiqmk_20
+  - galaga_sprites_by_mammadx_d2aiqmk_21
+  - galaga_sprites_by_mammadx_d2aiqmk_22
+  - galaga_sprites_by_mammadx_d2aiqmk_23
+  m_Tag: SpritAtlas
+  m_IsVariant: 0
